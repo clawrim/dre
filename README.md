@@ -1,2 +1,3 @@
-# modrio
-Modeling for the Rio Grande Restoration Initiative
+# Rio Grande Project Drought Resilience Efforts (DRE) Initiative
+
+Modeling for the Rio Grande Project Drought Resilience Efforts (DRE) Initiative
